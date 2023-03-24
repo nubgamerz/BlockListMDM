@@ -1,2 +1,3 @@
 ||awmdm.com^
 ||vmwservices.com^
+||conferdeploy.net^
