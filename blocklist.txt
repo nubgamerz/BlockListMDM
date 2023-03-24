@@ -1,3 +1,4 @@
 ||awmdm.com^
 ||vmwservices.com^
 ||conferdeploy.net^
+||scapi.vmware.com^
